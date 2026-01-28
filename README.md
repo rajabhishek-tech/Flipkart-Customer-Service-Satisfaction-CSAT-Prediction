@@ -111,12 +111,12 @@ Translating ML outputs into business-relevant insights
 
 End-to-end ML workflow from problem understanding to conclusion
 
-📎 Project Structure
-├── data/
-│   └── customer_support_data.csv
-├── notebooks/
-│   └── Flipkart_CSAT_Analysis.ipynb
-├── README.md
+📎 Project Structure                        
+├── data/                         
+│   └── customer_support_data.csv                
+├── notebooks/                  
+│   └── Flipkart_CSAT_Analysis.ipynb                    
+├── README.md                   
 
 🚀 Future Enhancements
 
